@@ -1,8 +1,8 @@
 # cosmos
 Cosmos is a website used for camping purpose. It is used to find campgrounds near you and also add your own campground.
 
-<h1>Apps installed</h1>
-<h1>mongo</h1>
-<h1>nodeJs</h1>
-<h1>NPM</h1>
-use node app.js to run the application/
+<h2>Apps installed</h2>
+<h2>mongo</h2>
+<h2>nodeJs</h2>
+<h2>NPM</h2>
+<title>use node app.js to run the application</title>
